@@ -1,0 +1,11 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+/prisma/migrartions
+/node_modules
+/.agents
+/.claude
+/.windsurf
+package-lock.json
