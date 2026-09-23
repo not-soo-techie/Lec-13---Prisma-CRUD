@@ -9,3 +9,5 @@ node_modules
 /.claude
 /.windsurf
 package-lock.json
+/generated
+.DS_Store
